@@ -1,0 +1,4 @@
+strawberry
+apples
+bananas
+oranges
