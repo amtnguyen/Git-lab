@@ -1,4 +1,6 @@
-strawberry
-apples
-bananas
-oranges
+sleep
+hello
+hi
+jorange
+banana
+apple
