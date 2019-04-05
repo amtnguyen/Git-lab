@@ -1,6 +1,9 @@
 sleep
 hello
 hi
-jorange
+pineapple
 banana
 apple
+yes 
+no 
+maybe
